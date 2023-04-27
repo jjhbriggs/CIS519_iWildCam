@@ -1,6 +1,5 @@
 # CIS519 Final Project
 
- setup/build instructions for reproducibility, along with a very brief explanation of what the files do.
 ## File Description
 **/Notebook/data_prep/generate_train_subsamples.ipynb:** 
 extract a subset from the dataset for training
