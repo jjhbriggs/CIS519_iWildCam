@@ -19,9 +19,10 @@ extract a subset from the dataset for training
 ## How to use our code
 For .ipynb files, you could either run them in the google colab or jupter nodebook with the correct folder layout.
 
-## Links to our dataset
+## Links to our dataset and models
 
 [google drive dataset](https://drive.google.com/drive/folders/1agY4343mgJ6gFnpjiIBTOUUgrR_h4rwg?usp=share_link)
+
 [trained model](https://drive.google.com/drive/folders/1krGhYYNV08P6Dg4S9NvGfS-5Oew3HANX?usp=sharing)
 
 
